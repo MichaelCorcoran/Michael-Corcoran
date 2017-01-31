@@ -3,6 +3,6 @@ a:hover{color:#614051;}
 body {
     background-image: url("http://www.all-flags-world.com/country-flag/Russia/flag-russia-XL.jpg");}
 div {width: 300px;
-    border: 25px solid blue;
+    border: 25px solid #0048BA;
     padding: 25px;
     margin: 25px;}
