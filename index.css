@@ -1,5 +1,8 @@
 a{color:#614051;}
 a:hover{color:#614051;}
 body {
-    background-image: url("http://www.all-flags-world.com/country-flag/Russia/flag-russia-XL.jpg");
-}
+    background-image: url("http://www.all-flags-world.com/country-flag/Russia/flag-russia-XL.jpg");}
+div {width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;}
